@@ -1,0 +1,15 @@
+project:
+  type: website
+  # output-dir: ""
+  
+website:
+  title: "我的 Quarto 项目"
+  # 其他网站设置...
+
+format:
+  html:
+    # 全局应用 styles.css 文件
+    css: styles.css 
+    theme: cosmo
+    
+  # ... 其他格式，例如 pdf

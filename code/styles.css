@@ -1,0 +1,14 @@
+/* 针对 Quarto 生成的 HTML 输出中的图注 */
+.caption {
+  text-align: center !important;
+}
+
+/* 针对 Quarto 生成的 HTML 输出中的图注编号 (如果适用) */
+.quarto-figure-caption {
+  text-align: center !important;
+}
+
+/* 针对包含图注的整个容器 */
+.quarto-figure {
+  text-align: center;
+}
